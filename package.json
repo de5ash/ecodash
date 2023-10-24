@@ -1,0 +1,14 @@
+{
+  "name": "epix01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deavshish",
+  "license": "ISC",
+  "dependencies": {
+    "sheryjs": "^1.0.0-beta.0.0.8"
+  }
+}
